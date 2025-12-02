@@ -1,6 +1,6 @@
 # Salifort Motors Employee Retention Analysis & Prediction
 ## Business case
-The Human Resources (HR) department at Salifort Motors was seeking data-driven insights and solutions to improve overall employee satisfaction and retention within the company. They have collected valuable data from employees but require analytical expertise to interpret it and formulate actionable initiatives.
+The Human Resources (HR) department at Salifort Motors was seeking data-driven insights and solutions to improve overall employee satisfaction and retention within the company. They have collected valuable data from employees but required analytical expertise to interpret it and formulate actionable initiatives.
 * What factors are likely to cause an employee to leave the company?
 ## Project Goals
 The primary objectives of this project were:
